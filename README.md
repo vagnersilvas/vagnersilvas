@@ -1,11 +1,9 @@
 ### Hi there 👋
-[![card](https://github-readme-stats.vercel.app/api?username=vagner&theme=dark)](https://github.com/vagnersilvas/)                             
+[![Vagner GitHub stats](https://github-readme-stats.vercel.app/api?username=vagnersilvas&show_icons=true&theme=radical)](https://github.com/vagnersilvas/github-readme-stats)       
 
 
-[![vagner](https://github-readme-stats.vercel.app/api/top-langs/?username=vagner&hide=html&layout=compact=true&theme=dark)](https://github.com/vagnersilvas/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vagnersilvas&theme=dark)](https://github.com/vagnersilvas/github-readme-stats)
 
-
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 📫 How to reach me: linkedin.com/in/vagner-da-silva-dev
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/vagner-da-silva-dev)
 
 
