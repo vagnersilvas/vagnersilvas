@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+<p>Meu nome é Vagner da Silva, cursando o 3º semestre de Análise e Desenvolvimento de Sistemas.</p> 
+<p>Procuro uma oportunidade de estágio Front-end ou ou Dev Junior.</p>
+<p>Tenho boa proficiencia em JavaScript, HTML, CSS, Git.</p>
+<p>tenho conhecimentos em Scrum, PostgreSql, NodeJs.</p>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnersilvas&show_icons=true&theme=radical"/>
   -
